@@ -501,10 +501,10 @@
   {
     "cause": "Investigating",
     "city": "South Seattle",
-    "etrTime": 1770857532000,
+    "etrTime": 1770859356000,
     "id": 2025868,
     "identifier": "211036",
-    "lastUpdatedTime": 1770836043000,
+    "lastUpdatedTime": 1770838684000,
     "latitude": 47.47464,
     "longitude": -122.34784,
     "numPeople": 1,
@@ -587,6 +587,7 @@
     },
     "startTime": 1770835847000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   },
   {
