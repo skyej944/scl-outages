@@ -1263,12 +1263,12 @@
     "type": "PLANNED_OUTAGE"
   },
   {
-    "cause": "Investigating",
+    "cause": "Planned Outage",
     "city": "North Seattle",
     "etrTime": 1770811465000,
     "id": 2025596,
     "identifier": "211023",
-    "lastUpdatedTime": 1770790205000,
+    "lastUpdatedTime": 1770790325000,
     "latitude": 47.73076,
     "longitude": -122.29488,
     "numPeople": 1,
@@ -1352,6 +1352,7 @@
     "startTime": 1770789488000,
     "state": "WA",
     "status": "Dispatched",
-    "title": "Outage"
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
   }
 ]
