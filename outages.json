@@ -1,11 +1,11 @@
 [
   {
-    "cause": "Investigating",
+    "cause": "Planned Outage",
     "city": "North Seattle",
     "etrTime": 1771641001000,
     "id": 2030066,
     "identifier": "211331",
-    "lastUpdatedTime": 1771621443000,
+    "lastUpdatedTime": 1771630083000,
     "latitude": 47.69637,
     "longitude": -122.35851,
     "numPeople": 1,
@@ -89,6 +89,7 @@
     "startTime": 1771619082000,
     "state": "WA",
     "status": "Dispatched",
-    "title": "Outage"
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
   }
 ]
