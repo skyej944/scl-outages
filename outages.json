@@ -2,10 +2,10 @@
   {
     "cause": "Investigating",
     "city": "North Seattle",
-    "etrTime": 1771918200000,
+    "etrTime": 1771941600000,
     "id": 2031509,
     "identifier": "211410",
-    "lastUpdatedTime": 1771910404000,
+    "lastUpdatedTime": 1771916643000,
     "latitude": 47.67957,
     "longitude": -122.35537,
     "numPeople": 32,
@@ -171,98 +171,6 @@
       "type": "polygon"
     },
     "startTime": 1771900313000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Outage"
-  },
-  {
-    "cause": "Investigating",
-    "city": "North Seattle",
-    "etrTime": 1771922889000,
-    "id": 2031660,
-    "identifier": "211440",
-    "lastUpdatedTime": 1771901403000,
-    "latitude": 47.61996,
-    "longitude": -122.30187,
-    "numPeople": 1,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.30181,
-            47.61976
-          ],
-          [
-            -122.30192,
-            47.6197
-          ],
-          [
-            -122.30205,
-            47.61968
-          ],
-          [
-            -122.30216,
-            47.61972
-          ],
-          [
-            -122.30228,
-            47.6198
-          ],
-          [
-            -122.30235,
-            47.6199
-          ],
-          [
-            -122.30238,
-            47.62002
-          ],
-          [
-            -122.30235,
-            47.62014
-          ],
-          [
-            -122.30228,
-            47.62025
-          ],
-          [
-            -122.30215,
-            47.62034
-          ],
-          [
-            -122.30203,
-            47.62036
-          ],
-          [
-            -122.3019,
-            47.62034
-          ],
-          [
-            -122.30177,
-            47.62025
-          ],
-          [
-            -122.3017,
-            47.62014
-          ],
-          [
-            -122.30168,
-            47.62
-          ],
-          [
-            -122.30172,
-            47.61987
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1771901127000,
     "state": "WA",
     "status": "Dispatched",
     "title": "Outage"
