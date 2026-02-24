@@ -2,10 +2,10 @@
   {
     "cause": "Investigating",
     "city": "North Seattle",
-    "etrTime": 1771910289000,
+    "etrTime": 1771918200000,
     "id": 2031509,
     "identifier": "211410",
-    "lastUpdatedTime": 1771885203000,
+    "lastUpdatedTime": 1771910404000,
     "latitude": 47.67957,
     "longitude": -122.35537,
     "numPeople": 32,
@@ -641,7 +641,7 @@
     "etrTime": 1771930989000,
     "id": 2031678,
     "identifier": "211446",
-    "lastUpdatedTime": 1771909443000,
+    "lastUpdatedTime": 1771910883000,
     "latitude": 47.62357,
     "longitude": -122.31538,
     "numPeople": 1,
@@ -724,6 +724,7 @@
     },
     "startTime": 1771908902000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   }
 ]
