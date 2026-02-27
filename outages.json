@@ -368,9 +368,10 @@
   {
     "cause": "Investigating",
     "city": "South Seattle",
+    "etrTime": 1772249446000,
     "id": 2033469,
     "identifier": "211621",
-    "lastUpdatedTime": 1772227083000,
+    "lastUpdatedTime": 1772227922000,
     "latitude": 47.59052,
     "longitude": -122.31696,
     "numPeople": 1,
@@ -458,9 +459,10 @@
   {
     "cause": "Investigating",
     "city": "North Seattle",
+    "etrTime": 1772249446000,
     "id": 2033474,
     "identifier": "211622",
-    "lastUpdatedTime": 1772227323000,
+    "lastUpdatedTime": 1772227922000,
     "latitude": 47.76057,
     "longitude": -122.34489,
     "numPeople": 1,
