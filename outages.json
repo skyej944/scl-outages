@@ -557,12 +557,12 @@
     "type": "PLANNED_OUTAGE"
   },
   {
-    "cause": "Investigating",
+    "cause": "Equipment Failure",
     "city": "South Seattle",
     "etrTime": 1772781300000,
     "id": 2036071,
     "identifier": "211859",
-    "lastUpdatedTime": 1772771524000,
+    "lastUpdatedTime": 1772782563000,
     "latitude": 47.55721,
     "longitude": -122.27102,
     "numPeople": 1,
