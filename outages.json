@@ -183,103 +183,6 @@
     "title": "Outage"
   },
   {
-    "cause": "Planned Outage",
-    "city": "North Seattle",
-    "etrTime": 1773089220000,
-    "id": 2038517,
-    "identifier": "211983",
-    "lastUpdatedTime": 1773074883000,
-    "latitude": 47.71199,
-    "longitude": -122.3135,
-    "numPeople": 4,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.31357,
-            47.71158
-          ],
-          [
-            -122.31421,
-            47.71171
-          ],
-          [
-            -122.31432,
-            47.71176
-          ],
-          [
-            -122.3144,
-            47.71185
-          ],
-          [
-            -122.31444,
-            47.71197
-          ],
-          [
-            -122.31443,
-            47.71209
-          ],
-          [
-            -122.31437,
-            47.7122
-          ],
-          [
-            -122.31428,
-            47.71228
-          ],
-          [
-            -122.31415,
-            47.71232
-          ],
-          [
-            -122.31281,
-            47.71232
-          ],
-          [
-            -122.31266,
-            47.71227
-          ],
-          [
-            -122.31254,
-            47.71216
-          ],
-          [
-            -122.3125,
-            47.71204
-          ],
-          [
-            -122.31251,
-            47.71192
-          ],
-          [
-            -122.31257,
-            47.71181
-          ],
-          [
-            -122.31266,
-            47.71173
-          ],
-          [
-            -122.31276,
-            47.71169
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1773074808000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Planned Outage",
-    "type": "PLANNED_OUTAGE"
-  },
-  {
     "cause": "Investigating",
     "city": "South Seattle",
     "etrTime": 1773098136000,
@@ -374,9 +277,10 @@
   {
     "cause": "Investigating",
     "city": "North Seattle",
+    "etrTime": 1773100836000,
     "id": 2038543,
     "identifier": "211990",
-    "lastUpdatedTime": 1773078364000,
+    "lastUpdatedTime": 1773079324000,
     "latitude": 47.69935,
     "longitude": -122.33994,
     "numPeople": 1,
@@ -464,9 +368,10 @@
   {
     "cause": "Investigating",
     "city": "South Seattle",
+    "etrTime": 1773100836000,
     "id": 2038549,
     "identifier": "211992",
-    "lastUpdatedTime": 1773078843000,
+    "lastUpdatedTime": 1773079324000,
     "latitude": 47.57844,
     "longitude": -122.40245,
     "numPeople": 1,
