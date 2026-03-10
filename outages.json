@@ -521,14 +521,15 @@
     "type": "PLANNED_OUTAGE"
   },
   {
-    "cause": "Investigating",
+    "cause": "Planned Outage",
     "city": "South Seattle",
+    "etrTime": 1775864520000,
     "id": 2039036,
     "identifier": "212064",
-    "lastUpdatedTime": 1773186126000,
+    "lastUpdatedTime": 1773186366000,
     "latitude": 47.587,
     "longitude": -122.29941,
-    "numPeople": 1,
+    "numPeople": 2,
     "polygons": {
       "hasM": false,
       "hasZ": false,
@@ -608,6 +609,8 @@
     },
     "startTime": 1773186056000,
     "state": "WA",
-    "title": "Outage"
+    "status": "Dispatched",
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
   }
 ]
