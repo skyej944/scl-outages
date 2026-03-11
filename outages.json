@@ -95,95 +95,6 @@
   {
     "cause": "Planned Outage",
     "city": "South Seattle",
-    "etrTime": 1773273600000,
-    "id": 2039254,
-    "identifier": "212080",
-    "lastUpdatedTime": 1773243123000,
-    "latitude": 47.46725,
-    "longitude": -122.29461,
-    "numPeople": 6,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.29406,
-            47.46715
-          ],
-          [
-            -122.29409,
-            47.46671
-          ],
-          [
-            -122.29417,
-            47.46656
-          ],
-          [
-            -122.29436,
-            47.46646
-          ],
-          [
-            -122.29448,
-            47.46647
-          ],
-          [
-            -122.29459,
-            47.46652
-          ],
-          [
-            -122.29507,
-            47.46697
-          ],
-          [
-            -122.29515,
-            47.46709
-          ],
-          [
-            -122.29517,
-            47.46781
-          ],
-          [
-            -122.2951,
-            47.46798
-          ],
-          [
-            -122.29501,
-            47.46806
-          ],
-          [
-            -122.29489,
-            47.4681
-          ],
-          [
-            -122.29477,
-            47.46809
-          ],
-          [
-            -122.29466,
-            47.46804
-          ],
-          [
-            -122.29411,
-            47.46735
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1773243015000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Planned Outage",
-    "type": "PLANNED_OUTAGE"
-  },
-  {
-    "cause": "Planned Outage",
-    "city": "South Seattle",
     "etrTime": 1773272036000,
     "id": 2039670,
     "identifier": "212084",
@@ -648,9 +559,10 @@
   {
     "cause": "Planned Outage",
     "city": "North Seattle",
+    "etrTime": 1773285370000,
     "id": 2040211,
     "identifier": "212097",
-    "lastUpdatedTime": 1773263403000,
+    "lastUpdatedTime": 1773263883000,
     "latitude": 47.65371,
     "longitude": -122.34926,
     "numPeople": 1,
