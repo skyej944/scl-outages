@@ -652,9 +652,10 @@
   {
     "cause": "Planned Outage",
     "city": "South Seattle",
+    "etrTime": 1773288070000,
     "id": 2040236,
     "identifier": "212099",
-    "lastUpdatedTime": 1773265803000,
+    "lastUpdatedTime": 1773266523000,
     "latitude": 47.59042,
     "longitude": -122.39262,
     "numPeople": 1,
