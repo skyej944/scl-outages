@@ -193,7 +193,7 @@
     "etrTime": 1773324000000,
     "id": 2040423,
     "identifier": "212148",
-    "lastUpdatedTime": 1773309500000,
+    "lastUpdatedTime": 1773311534000,
     "latitude": 47.50372,
     "longitude": -122.3601,
     "numPeople": 1,
@@ -276,6 +276,7 @@
     },
     "startTime": 1773287544000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   },
   {
@@ -2051,12 +2052,12 @@
   {
     "cause": "Tree/Vegetation",
     "city": "South Seattle",
-    "etrTime": 1773312370000,
+    "etrTime": 1773331200000,
     "id": 2040482,
     "identifier": "212191",
-    "lastUpdatedTime": 1773309860000,
+    "lastUpdatedTime": 1773311296000,
     "latitude": 47.58148,
-    "longitude": -122.31532,
+    "longitude": -122.31533,
     "numPeople": 33,
     "polygons": {
       "hasM": false,
@@ -2088,20 +2089,16 @@
             47.58124
           ],
           [
-            -122.31587,
-            47.58126
+            -122.31592,
+            47.58132
           ],
           [
             -122.31596,
-            47.58144
-          ],
-          [
-            -122.31594,
-            47.58169
+            47.5815
           ],
           [
             -122.31593,
-            47.58171
+            47.58169
           ],
           [
             -122.31594,
@@ -2132,28 +2129,24 @@
             47.582
           ],
           [
-            -122.31507,
+            -122.31503,
             47.58207
           ],
           [
-            -122.31493,
-            47.58204
-          ],
-          [
-            -122.31483,
-            47.58198
-          ],
-          [
-            -122.31476,
-            47.58186
+            -122.31486,
+            47.582
           ],
           [
             -122.31475,
-            47.58169
+            47.58184
           ],
           [
-            -122.31482,
-            47.58155
+            -122.31476,
+            47.58165
+          ],
+          [
+            -122.31481,
+            47.58154
           ],
           [
             -122.31473,
@@ -2191,10 +2184,10 @@
   {
     "cause": "Tree/Vegetation",
     "city": "North Seattle",
-    "etrTime": 1773312370000,
+    "etrTime": 1773322200000,
     "id": 2040490,
     "identifier": "212204",
-    "lastUpdatedTime": 1773309981000,
+    "lastUpdatedTime": 1773311413000,
     "latitude": 47.69361,
     "longitude": -122.3019,
     "numPeople": 1,
@@ -2715,10 +2708,10 @@
   {
     "cause": "Tree/Vegetation",
     "city": "North Seattle",
-    "etrTime": 1773312370000,
+    "etrTime": 1773322200000,
     "id": 2040500,
     "identifier": "212208",
-    "lastUpdatedTime": 1773309981000,
+    "lastUpdatedTime": 1773311413000,
     "latitude": 47.65972,
     "longitude": -122.3953,
     "numPeople": 1,
@@ -2807,10 +2800,10 @@
   {
     "cause": "Tree/Vegetation",
     "city": "North Seattle",
-    "etrTime": 1773313270000,
+    "etrTime": 1773324000000,
     "id": 2040501,
     "identifier": "212212",
-    "lastUpdatedTime": 1773309981000,
+    "lastUpdatedTime": 1773311413000,
     "latitude": 47.65985,
     "longitude": -122.39489,
     "numPeople": 1,
@@ -3821,104 +3814,12 @@
     "title": "Outage"
   },
   {
-    "cause": "Equipment Failure",
-    "city": "South Seattle",
-    "etrTime": 1773328345000,
-    "id": 2040519,
-    "identifier": "212244",
-    "lastUpdatedTime": 1773307100000,
-    "latitude": 47.55484,
-    "longitude": -122.27216,
-    "numPeople": 7,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.27237,
-            47.55537
-          ],
-          [
-            -122.27183,
-            47.55537
-          ],
-          [
-            -122.27165,
-            47.5553
-          ],
-          [
-            -122.27119,
-            47.55479
-          ],
-          [
-            -122.27116,
-            47.55461
-          ],
-          [
-            -122.27123,
-            47.55446
-          ],
-          [
-            -122.27134,
-            47.55437
-          ],
-          [
-            -122.27156,
-            47.55431
-          ],
-          [
-            -122.27184,
-            47.55432
-          ],
-          [
-            -122.273,
-            47.55458
-          ],
-          [
-            -122.27316,
-            47.55467
-          ],
-          [
-            -122.27322,
-            47.55478
-          ],
-          [
-            -122.27323,
-            47.5549
-          ],
-          [
-            -122.2732,
-            47.55502
-          ],
-          [
-            -122.27313,
-            47.55512
-          ],
-          [
-            -122.27302,
-            47.55518
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1773293367000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Outage"
-  },
-  {
     "cause": "Tree/Vegetation",
     "city": "North Seattle",
-    "etrTime": 1773318670000,
+    "etrTime": 1773324000000,
     "id": 2040529,
     "identifier": "212250",
-    "lastUpdatedTime": 1773309981000,
+    "lastUpdatedTime": 1773311413000,
     "latitude": 47.67802,
     "longitude": -122.29985,
     "numPeople": 1,
@@ -4010,7 +3911,7 @@
     "etrTime": 1773318670000,
     "id": 2040531,
     "identifier": "212251",
-    "lastUpdatedTime": 1773309981000,
+    "lastUpdatedTime": 1773311534000,
     "latitude": 47.4852,
     "longitude": -122.33764,
     "numPeople": 1,
@@ -4093,6 +3994,7 @@
     },
     "startTime": 1773296999000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   }
 ]
