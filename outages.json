@@ -1,93 +1,5 @@
 [
   {
-    "cause": "Tree/Vegetation",
-    "city": "North Seattle",
-    "etrTime": 1773331200000,
-    "id": 2040413,
-    "identifier": "212142",
-    "lastUpdatedTime": 1773322209000,
-    "latitude": 47.76922,
-    "longitude": -122.28477,
-    "numPeople": 4,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.28368,
-            47.76868
-          ],
-          [
-            -122.28604,
-            47.76895
-          ],
-          [
-            -122.28615,
-            47.769
-          ],
-          [
-            -122.28623,
-            47.7691
-          ],
-          [
-            -122.28627,
-            47.76921
-          ],
-          [
-            -122.28627,
-            47.76934
-          ],
-          [
-            -122.28618,
-            47.76948
-          ],
-          [
-            -122.28602,
-            47.76956
-          ],
-          [
-            -122.2845,
-            47.76978
-          ],
-          [
-            -122.28438,
-            47.76977
-          ],
-          [
-            -122.28378,
-            47.76949
-          ],
-          [
-            -122.28338,
-            47.76917
-          ],
-          [
-            -122.28333,
-            47.76901
-          ],
-          [
-            -122.28337,
-            47.76884
-          ],
-          [
-            -122.28351,
-            47.76871
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1773286424000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Outage"
-  },
-  {
     "cause": "Investigating",
     "city": "South Seattle",
     "etrTime": 1773324000000,
@@ -1106,10 +1018,10 @@
   {
     "cause": "Tree/Vegetation",
     "city": "South Seattle",
-    "etrTime": 1773318670000,
+    "etrTime": 1773348370000,
     "id": 2040531,
     "identifier": "212251",
-    "lastUpdatedTime": 1773311534000,
+    "lastUpdatedTime": 1773326888000,
     "latitude": 47.4852,
     "longitude": -122.33764,
     "numPeople": 1,
@@ -1201,10 +1113,10 @@
     "etrTime": 1773341170000,
     "id": 2040663,
     "identifier": "212260",
-    "lastUpdatedTime": 1773319813000,
+    "lastUpdatedTime": 1773327008000,
     "latitude": 47.70489,
     "longitude": -122.35181,
-    "numPeople": 1,
+    "numPeople": 2,
     "polygons": {
       "hasM": false,
       "hasZ": false,
