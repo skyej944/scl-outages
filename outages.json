@@ -420,9 +420,10 @@
   {
     "cause": "Investigating",
     "city": "South Seattle",
+    "etrTime": 1773549972000,
     "id": 2045964,
     "identifier": "212653",
-    "lastUpdatedTime": 1773528124000,
+    "lastUpdatedTime": 1773528483000,
     "latitude": 47.49425,
     "longitude": -122.32362,
     "numPeople": 1,
