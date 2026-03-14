@@ -945,90 +945,6 @@
   {
     "cause": "Investigating",
     "city": "North Seattle",
-    "etrTime": 1773549972000,
-    "id": 2045592,
-    "identifier": "212642",
-    "lastUpdatedTime": 1773516844000,
-    "latitude": 47.65398,
-    "longitude": -122.37085,
-    "numPeople": 43,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.37102,
-            47.65443
-          ],
-          [
-            -122.37071,
-            47.65428
-          ],
-          [
-            -122.37035,
-            47.65401
-          ],
-          [
-            -122.37031,
-            47.65389
-          ],
-          [
-            -122.37031,
-            47.65377
-          ],
-          [
-            -122.37035,
-            47.65366
-          ],
-          [
-            -122.37044,
-            47.65357
-          ],
-          [
-            -122.37059,
-            47.65352
-          ],
-          [
-            -122.37074,
-            47.65354
-          ],
-          [
-            -122.37106,
-            47.65371
-          ],
-          [
-            -122.37142,
-            47.65398
-          ],
-          [
-            -122.37147,
-            47.65417
-          ],
-          [
-            -122.3714,
-            47.65436
-          ],
-          [
-            -122.37122,
-            47.65446
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1773506940000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Outage"
-  },
-  {
-    "cause": "Investigating",
-    "city": "North Seattle",
     "etrTime": 1773537372000,
     "id": 2045643,
     "identifier": "212643",
@@ -1120,9 +1036,10 @@
   {
     "cause": "Investigating",
     "city": "South Seattle",
+    "etrTime": 1773540972000,
     "id": 2045721,
     "identifier": "212644",
-    "lastUpdatedTime": 1773519003000,
+    "lastUpdatedTime": 1773519483000,
     "latitude": 47.48773,
     "longitude": -122.26072,
     "numPeople": 1,
