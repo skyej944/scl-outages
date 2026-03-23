@@ -1020,12 +1020,12 @@
     "type": "PLANNED_OUTAGE"
   },
   {
-    "cause": "Investigating",
+    "cause": "Tree/Vegetation",
     "city": "South Seattle",
     "etrTime": 1774329206000,
     "id": 2055812,
     "identifier": "213136",
-    "lastUpdatedTime": 1774307644000,
+    "lastUpdatedTime": 1774309083000,
     "latitude": 47.57643,
     "longitude": -122.41694,
     "numPeople": 1,
@@ -1108,6 +1108,7 @@
     },
     "startTime": 1774307081000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   }
 ]
