@@ -943,13 +943,13 @@
   {
     "cause": "Investigating",
     "city": "North Seattle",
-    "etrTime": 1774447787000,
+    "etrTime": 1774466774000,
     "id": 2056361,
     "identifier": "213244",
-    "lastUpdatedTime": 1774426323000,
+    "lastUpdatedTime": 1774430883000,
     "latitude": 47.74763,
     "longitude": -122.33072,
-    "numPeople": 1,
+    "numPeople": 2,
     "polygons": {
       "hasM": false,
       "hasZ": false,
