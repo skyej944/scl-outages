@@ -1,94 +1,5 @@
 [
   {
-    "cause": "Planned Outage",
-    "city": "North Seattle",
-    "etrTime": 1774994400000,
-    "id": 2058771,
-    "identifier": "213438",
-    "lastUpdatedTime": 1774964643000,
-    "latitude": 47.66696,
-    "longitude": -122.37292,
-    "numPeople": 3,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.3728,
-            47.66668
-          ],
-          [
-            -122.37303,
-            47.66665
-          ],
-          [
-            -122.37323,
-            47.66669
-          ],
-          [
-            -122.37334,
-            47.66675
-          ],
-          [
-            -122.37341,
-            47.66685
-          ],
-          [
-            -122.37344,
-            47.66696
-          ],
-          [
-            -122.37343,
-            47.66709
-          ],
-          [
-            -122.37337,
-            47.66719
-          ],
-          [
-            -122.37323,
-            47.66728
-          ],
-          [
-            -122.37301,
-            47.66732
-          ],
-          [
-            -122.37277,
-            47.66729
-          ],
-          [
-            -122.37265,
-            47.66722
-          ],
-          [
-            -122.37256,
-            47.66709
-          ],
-          [
-            -122.37255,
-            47.66691
-          ],
-          [
-            -122.37265,
-            47.66675
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1774960712000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Planned Outage",
-    "type": "PLANNED_OUTAGE"
-  },
-  {
     "cause": "Investigating",
     "city": "South Seattle",
     "etrTime": 1774991194000,
@@ -183,10 +94,10 @@
   {
     "cause": "Investigating",
     "city": "North Seattle",
-    "etrTime": 1774989394000,
+    "etrTime": 1774991194000,
     "id": 2058839,
     "identifier": "213441",
-    "lastUpdatedTime": 1774967884000,
+    "lastUpdatedTime": 1774969684000,
     "latitude": 47.62619,
     "longitude": -122.29734,
     "numPeople": 1,
