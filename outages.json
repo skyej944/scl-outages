@@ -2033,9 +2033,10 @@
   {
     "cause": "Investigating",
     "city": "South Seattle",
+    "etrTime": 1775181715000,
     "id": 2060718,
     "identifier": "213579",
-    "lastUpdatedTime": 1775160003000,
+    "lastUpdatedTime": 1775160123000,
     "latitude": 47.50074,
     "longitude": -122.31557,
     "numPeople": 1,
