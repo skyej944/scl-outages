@@ -188,10 +188,10 @@
   {
     "cause": "Investigating",
     "city": "South Seattle",
-    "etrTime": 1775849958000,
+    "etrTime": 1775871840000,
     "id": 2065955,
     "identifier": "213918",
-    "lastUpdatedTime": 1775834524000,
+    "lastUpdatedTime": 1775850363000,
     "latitude": 47.50201,
     "longitude": -122.30478,
     "numPeople": 28,
@@ -373,102 +373,10 @@
   {
     "cause": "Investigating",
     "city": "South Seattle",
-    "etrTime": 1775865257000,
-    "id": 2066278,
-    "identifier": "213932",
-    "lastUpdatedTime": 1775845684000,
-    "latitude": 47.46179,
-    "longitude": -122.28101,
-    "numPeople": 1,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.28069,
-            47.46148
-          ],
-          [
-            -122.2808,
-            47.46142
-          ],
-          [
-            -122.28092,
-            47.46141
-          ],
-          [
-            -122.28104,
-            47.46144
-          ],
-          [
-            -122.28116,
-            47.46152
-          ],
-          [
-            -122.28123,
-            47.46162
-          ],
-          [
-            -122.28125,
-            47.46174
-          ],
-          [
-            -122.28123,
-            47.46186
-          ],
-          [
-            -122.28116,
-            47.46197
-          ],
-          [
-            -122.28102,
-            47.46206
-          ],
-          [
-            -122.2809,
-            47.46208
-          ],
-          [
-            -122.28078,
-            47.46206
-          ],
-          [
-            -122.28064,
-            47.46197
-          ],
-          [
-            -122.28058,
-            47.46186
-          ],
-          [
-            -122.28055,
-            47.46172
-          ],
-          [
-            -122.28059,
-            47.46159
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1775843592000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Outage"
-  },
-  {
-    "cause": "Investigating",
-    "city": "South Seattle",
     "etrTime": 1775868857000,
     "id": 2066300,
     "identifier": "213933",
-    "lastUpdatedTime": 1775847364000,
+    "lastUpdatedTime": 1775849763000,
     "latitude": 47.47292,
     "longitude": -122.28946,
     "numPeople": 1,
@@ -551,6 +459,7 @@
     },
     "startTime": 1775846403000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   }
 ]
