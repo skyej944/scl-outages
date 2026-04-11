@@ -2,9 +2,10 @@
   {
     "cause": "Investigating",
     "city": "North Seattle",
+    "etrTime": 1775964257000,
     "id": 2066570,
     "identifier": "213962",
-    "lastUpdatedTime": 1775941922000,
+    "lastUpdatedTime": 1775942762000,
     "latitude": 47.70235,
     "longitude": -122.34584,
     "numPeople": 1,
