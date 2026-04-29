@@ -93,98 +93,6 @@
     "type": "PLANNED_OUTAGE"
   },
   {
-    "cause": "Investigating",
-    "city": "North Seattle",
-    "etrTime": 1777499701000,
-    "id": 2090588,
-    "identifier": "215277",
-    "lastUpdatedTime": 1777478643000,
-    "latitude": 47.6341,
-    "longitude": -122.28075,
-    "numPeople": 1,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.28059,
-            47.63386
-          ],
-          [
-            -122.2807,
-            47.6338
-          ],
-          [
-            -122.28082,
-            47.63378
-          ],
-          [
-            -122.28094,
-            47.63381
-          ],
-          [
-            -122.28106,
-            47.6339
-          ],
-          [
-            -122.28113,
-            47.634
-          ],
-          [
-            -122.28115,
-            47.63412
-          ],
-          [
-            -122.28113,
-            47.63424
-          ],
-          [
-            -122.28106,
-            47.63434
-          ],
-          [
-            -122.28092,
-            47.63443
-          ],
-          [
-            -122.2808,
-            47.63446
-          ],
-          [
-            -122.28068,
-            47.63443
-          ],
-          [
-            -122.28054,
-            47.63434
-          ],
-          [
-            -122.28047,
-            47.63424
-          ],
-          [
-            -122.28045,
-            47.6341
-          ],
-          [
-            -122.28049,
-            47.63396
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1777477923000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Outage"
-  },
-  {
     "cause": "Planned Outage",
     "city": "North Seattle",
     "etrTime": 1777500900000,
@@ -360,10 +268,10 @@
     "etrTime": 1780094400000,
     "id": 2090605,
     "identifier": "215282",
-    "lastUpdatedTime": 1777482723000,
+    "lastUpdatedTime": 1777486683000,
     "latitude": 47.57934,
     "longitude": -122.31434,
-    "numPeople": 1,
+    "numPeople": 2,
     "polygons": {
       "hasM": false,
       "hasZ": false,
