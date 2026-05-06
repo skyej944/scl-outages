@@ -470,7 +470,7 @@
     "etrTime": 1778072033000,
     "id": 2093802,
     "identifier": "215791",
-    "lastUpdatedTime": 1778036043000,
+    "lastUpdatedTime": 1778043242000,
     "latitude": 47.57747,
     "longitude": -122.32845,
     "numPeople": 1,
@@ -553,6 +553,7 @@
     },
     "startTime": 1778035080000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   },
   {
@@ -561,7 +562,7 @@
     "etrTime": 1778073833000,
     "id": 2093806,
     "identifier": "215792",
-    "lastUpdatedTime": 1778037843000,
+    "lastUpdatedTime": 1778043242000,
     "latitude": 47.57589,
     "longitude": -122.32796,
     "numPeople": 8,
@@ -644,18 +645,19 @@
     },
     "startTime": 1778036100000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   },
   {
-    "cause": "Investigating",
+    "cause": "Planned Outage",
     "city": "South Seattle",
-    "etrTime": 1778063933000,
+    "etrTime": 1778841480000,
     "id": 2093825,
     "identifier": "215794",
-    "lastUpdatedTime": 1778042403000,
+    "lastUpdatedTime": 1778043242000,
     "latitude": 47.57267,
     "longitude": -122.387,
-    "numPeople": 1,
+    "numPeople": 2,
     "polygons": {
       "hasM": false,
       "hasZ": false,
@@ -735,6 +737,101 @@
     },
     "startTime": 1778041854000,
     "state": "WA",
-    "title": "Outage"
+    "status": "Dispatched",
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
+  },
+  {
+    "cause": "Planned Outage",
+    "city": "South Seattle",
+    "etrTime": 1778907120000,
+    "id": 2093827,
+    "identifier": "215795",
+    "lastUpdatedTime": 1778043242000,
+    "latitude": 47.46291,
+    "longitude": -122.34378,
+    "numPeople": 2,
+    "polygons": {
+      "hasM": false,
+      "hasZ": false,
+      "rings": [
+        [
+          [
+            -122.34362,
+            47.46267
+          ],
+          [
+            -122.34373,
+            47.46261
+          ],
+          [
+            -122.34385,
+            47.46259
+          ],
+          [
+            -122.34397,
+            47.46262
+          ],
+          [
+            -122.34409,
+            47.46271
+          ],
+          [
+            -122.34415,
+            47.46281
+          ],
+          [
+            -122.34418,
+            47.46293
+          ],
+          [
+            -122.34415,
+            47.46305
+          ],
+          [
+            -122.34409,
+            47.46315
+          ],
+          [
+            -122.34395,
+            47.46324
+          ],
+          [
+            -122.34383,
+            47.46327
+          ],
+          [
+            -122.34371,
+            47.46324
+          ],
+          [
+            -122.34357,
+            47.46315
+          ],
+          [
+            -122.3435,
+            47.46305
+          ],
+          [
+            -122.34348,
+            47.46291
+          ],
+          [
+            -122.34352,
+            47.46277
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "type": "polygon"
+    },
+    "startTime": 1778042794000,
+    "state": "WA",
+    "status": "Dispatched",
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
   }
 ]
