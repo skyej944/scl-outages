@@ -94,9 +94,10 @@
   {
     "cause": "Investigating",
     "city": "South Seattle",
+    "etrTime": 1778101733000,
     "id": 2093972,
     "identifier": "215806",
-    "lastUpdatedTime": 1778079363000,
+    "lastUpdatedTime": 1778080563000,
     "latitude": 47.59268,
     "longitude": -122.39043,
     "numPeople": 1,
@@ -179,6 +180,7 @@
     },
     "startTime": 1778079313000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   }
 ]
