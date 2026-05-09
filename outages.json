@@ -552,12 +552,12 @@
     "title": "Outage"
   },
   {
-    "cause": "Investigating",
+    "cause": "Planned Outage",
     "city": "South Seattle",
     "etrTime": 1778379682000,
     "id": 2094948,
     "identifier": "216120",
-    "lastUpdatedTime": 1778343724000,
+    "lastUpdatedTime": 1778343843000,
     "latitude": 47.58035,
     "longitude": -122.32834,
     "numPeople": 1,
@@ -641,6 +641,7 @@
     "startTime": 1778342940000,
     "state": "WA",
     "status": "Dispatched",
-    "title": "Outage"
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
   }
 ]
