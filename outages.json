@@ -1112,14 +1112,15 @@
     "type": "PLANNED_OUTAGE"
   },
   {
-    "cause": "Investigating",
+    "cause": "Planned Outage",
     "city": "North Seattle",
+    "etrTime": 1778727720000,
     "id": 2096018,
     "identifier": "216191",
-    "lastUpdatedTime": 1778533203000,
+    "lastUpdatedTime": 1778534163000,
     "latitude": 47.66155,
     "longitude": -122.35036,
-    "numPeople": 1,
+    "numPeople": 2,
     "polygons": {
       "hasM": false,
       "hasZ": false,
@@ -1199,6 +1200,8 @@
     },
     "startTime": 1778533100000,
     "state": "WA",
-    "title": "Outage"
+    "status": "Dispatched",
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
   }
 ]
