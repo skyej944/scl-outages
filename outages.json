@@ -92,12 +92,12 @@
     "title": "Outage"
   },
   {
-    "cause": "Investigating",
+    "cause": "Equipment Failure",
     "city": "South Seattle",
     "etrTime": 1778498482000,
     "id": 2095485,
     "identifier": "216142",
-    "lastUpdatedTime": 1778463482000,
+    "lastUpdatedTime": 1778475483000,
     "latitude": 47.54699,
     "longitude": -122.32883,
     "numPeople": 2,
