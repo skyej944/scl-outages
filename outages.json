@@ -5,7 +5,7 @@
     "etrTime": 1779159844000,
     "id": 2100158,
     "identifier": "216556",
-    "lastUpdatedTime": 1779138363000,
+    "lastUpdatedTime": 1779143283000,
     "latitude": 47.4879,
     "longitude": -122.29732,
     "numPeople": 1,
@@ -88,6 +88,7 @@
     },
     "startTime": 1779137868000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   },
   {
@@ -96,7 +97,7 @@
     "etrTime": 1779161644000,
     "id": 2100166,
     "identifier": "216558",
-    "lastUpdatedTime": 1779140163000,
+    "lastUpdatedTime": 1779143283000,
     "latitude": 47.48514,
     "longitude": -122.2878,
     "numPeople": 1,
@@ -179,6 +180,7 @@
     },
     "startTime": 1779139527000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   }
 ]
