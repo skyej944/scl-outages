@@ -1165,14 +1165,15 @@
     "title": "Outage"
   },
   {
-    "cause": "Investigating",
+    "cause": "Planned Outage",
     "city": "North Seattle",
+    "etrTime": 1779347893000,
     "id": 2102208,
     "identifier": "216687",
-    "lastUpdatedTime": 1779326286000,
+    "lastUpdatedTime": 1779326766000,
     "latitude": 47.75986,
     "longitude": -122.34515,
-    "numPeople": 1,
+    "numPeople": 2,
     "polygons": {
       "hasM": false,
       "hasZ": false,
@@ -1252,6 +1253,287 @@
     },
     "startTime": 1779326231000,
     "state": "WA",
-    "title": "Outage"
+    "status": "Dispatched",
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
+  },
+  {
+    "cause": "Planned Outage",
+    "city": "South Seattle",
+    "etrTime": 1779500760000,
+    "id": 2102313,
+    "identifier": "216689",
+    "lastUpdatedTime": 1779328086000,
+    "latitude": 47.58227,
+    "longitude": -122.40143,
+    "numPeople": 2,
+    "polygons": {
+      "hasM": false,
+      "hasZ": false,
+      "rings": [
+        [
+          [
+            -122.40126,
+            47.58202
+          ],
+          [
+            -122.40137,
+            47.58196
+          ],
+          [
+            -122.4015,
+            47.58195
+          ],
+          [
+            -122.40161,
+            47.58198
+          ],
+          [
+            -122.40173,
+            47.58206
+          ],
+          [
+            -122.4018,
+            47.58217
+          ],
+          [
+            -122.40183,
+            47.58229
+          ],
+          [
+            -122.4018,
+            47.58241
+          ],
+          [
+            -122.40173,
+            47.58251
+          ],
+          [
+            -122.4016,
+            47.5826
+          ],
+          [
+            -122.40148,
+            47.58262
+          ],
+          [
+            -122.40136,
+            47.5826
+          ],
+          [
+            -122.40122,
+            47.58251
+          ],
+          [
+            -122.40115,
+            47.58241
+          ],
+          [
+            -122.40113,
+            47.58226
+          ],
+          [
+            -122.40117,
+            47.58213
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "type": "polygon"
+    },
+    "startTime": 1779327247000,
+    "state": "WA",
+    "status": "Dispatched",
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
+  },
+  {
+    "cause": "Planned Outage",
+    "city": "North Seattle",
+    "etrTime": 1779501660000,
+    "id": 2102370,
+    "identifier": "216690",
+    "lastUpdatedTime": 1779328927000,
+    "latitude": 47.7604,
+    "longitude": -122.33138,
+    "numPeople": 2,
+    "polygons": {
+      "hasM": false,
+      "hasZ": false,
+      "rings": [
+        [
+          [
+            -122.33122,
+            47.76016
+          ],
+          [
+            -122.33133,
+            47.7601
+          ],
+          [
+            -122.33145,
+            47.76008
+          ],
+          [
+            -122.33157,
+            47.76012
+          ],
+          [
+            -122.33169,
+            47.7602
+          ],
+          [
+            -122.33176,
+            47.7603
+          ],
+          [
+            -122.33178,
+            47.76042
+          ],
+          [
+            -122.33176,
+            47.76054
+          ],
+          [
+            -122.33169,
+            47.76064
+          ],
+          [
+            -122.33155,
+            47.76074
+          ],
+          [
+            -122.33143,
+            47.76076
+          ],
+          [
+            -122.33131,
+            47.76074
+          ],
+          [
+            -122.33117,
+            47.76064
+          ],
+          [
+            -122.33111,
+            47.76054
+          ],
+          [
+            -122.33108,
+            47.7604
+          ],
+          [
+            -122.33112,
+            47.76026
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "type": "polygon"
+    },
+    "startTime": 1779328591000,
+    "state": "WA",
+    "status": "Dispatched",
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
+  },
+  {
+    "cause": "Planned Outage",
+    "city": "South Seattle",
+    "etrTime": 1779501720000,
+    "id": 2102372,
+    "identifier": "216691",
+    "lastUpdatedTime": 1779329046000,
+    "latitude": 47.50384,
+    "longitude": -122.34813,
+    "numPeople": 2,
+    "polygons": {
+      "hasM": false,
+      "hasZ": false,
+      "rings": [
+        [
+          [
+            -122.34802,
+            47.50362
+          ],
+          [
+            -122.34813,
+            47.50356
+          ],
+          [
+            -122.34825,
+            47.50354
+          ],
+          [
+            -122.34837,
+            47.50358
+          ],
+          [
+            -122.34849,
+            47.50366
+          ],
+          [
+            -122.34855,
+            47.50376
+          ],
+          [
+            -122.34858,
+            47.50388
+          ],
+          [
+            -122.34855,
+            47.504
+          ],
+          [
+            -122.34849,
+            47.5041
+          ],
+          [
+            -122.34835,
+            47.5042
+          ],
+          [
+            -122.34823,
+            47.50422
+          ],
+          [
+            -122.34811,
+            47.5042
+          ],
+          [
+            -122.34797,
+            47.5041
+          ],
+          [
+            -122.3479,
+            47.504
+          ],
+          [
+            -122.34788,
+            47.50386
+          ],
+          [
+            -122.34792,
+            47.50372
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "type": "polygon"
+    },
+    "startTime": 1779328696000,
+    "state": "WA",
+    "status": "Dispatched",
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
   }
 ]
