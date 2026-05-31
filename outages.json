@@ -93,12 +93,12 @@
     "type": "PLANNED_OUTAGE"
   },
   {
-    "cause": "Investigating",
+    "cause": "Bird/Animal Contact",
     "city": "North Seattle",
     "etrTime": 1780270738000,
     "id": 2112034,
     "identifier": "217134",
-    "lastUpdatedTime": 1780252923000,
+    "lastUpdatedTime": 1780257483000,
     "latitude": 47.69221,
     "longitude": -122.3765,
     "numPeople": 1,
