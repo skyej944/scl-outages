@@ -1,11 +1,11 @@
 [
   {
-    "cause": "Investigating",
+    "cause": "Bird/Animal Contact",
     "city": "South Seattle",
     "etrTime": 1781905837000,
     "id": 2133441,
     "identifier": "218264",
-    "lastUpdatedTime": 1781881803000,
+    "lastUpdatedTime": 1781898123000,
     "latitude": 47.50204,
     "longitude": -122.33563,
     "numPeople": 1,
@@ -86,7 +86,7 @@
       },
       "type": "polygon"
     },
-    "startTime": 1781880486000,
+    "startTime": 1781880480000,
     "state": "WA",
     "status": "Dispatched",
     "title": "Outage"
