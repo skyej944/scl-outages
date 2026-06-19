@@ -1,99 +1,11 @@
 [
   {
-    "cause": "Investigating",
-    "city": "South Seattle",
-    "etrTime": 1781899537000,
-    "id": 2133379,
-    "identifier": "218262",
-    "lastUpdatedTime": 1781878923000,
-    "latitude": 47.57174,
-    "longitude": -122.38142,
-    "numPeople": 12,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.38199,
-            47.57125
-          ],
-          [
-            -122.38206,
-            47.5715
-          ],
-          [
-            -122.38201,
-            47.57209
-          ],
-          [
-            -122.38191,
-            47.57226
-          ],
-          [
-            -122.38174,
-            47.57234
-          ],
-          [
-            -122.38111,
-            47.57237
-          ],
-          [
-            -122.38099,
-            47.57234
-          ],
-          [
-            -122.38088,
-            47.57226
-          ],
-          [
-            -122.3808,
-            47.57211
-          ],
-          [
-            -122.38075,
-            47.57161
-          ],
-          [
-            -122.38078,
-            47.57148
-          ],
-          [
-            -122.3809,
-            47.57127
-          ],
-          [
-            -122.38103,
-            47.5712
-          ],
-          [
-            -122.38171,
-            47.57107
-          ],
-          [
-            -122.38188,
-            47.57112
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1781877864000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Outage"
-  },
-  {
-    "cause": "Investigating",
+    "cause": "Bird/Animal Contact",
     "city": "South Seattle",
     "etrTime": 1781904937000,
     "id": 2133426,
     "identifier": "218263",
-    "lastUpdatedTime": 1781883723000,
+    "lastUpdatedTime": 1781887084000,
     "latitude": 47.61269,
     "longitude": -122.30099,
     "numPeople": 43,
@@ -277,7 +189,7 @@
     "etrTime": 1781904937000,
     "id": 2133470,
     "identifier": "218267",
-    "lastUpdatedTime": 1781883362000,
+    "lastUpdatedTime": 1781887324000,
     "latitude": 47.47464,
     "longitude": -122.27126,
     "numPeople": 1,
@@ -360,6 +272,7 @@
     },
     "startTime": 1781882648000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   }
 ]
