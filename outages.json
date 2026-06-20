@@ -224,12 +224,12 @@
     "title": "Outage"
   },
   {
-    "cause": "Investigating",
+    "cause": "Equipment Failure",
     "city": "North Seattle",
     "etrTime": 1782015878000,
     "id": 2134372,
     "identifier": "218321",
-    "lastUpdatedTime": 1781996163000,
+    "lastUpdatedTime": 1781997843000,
     "latitude": 47.69105,
     "longitude": -122.37741,
     "numPeople": 19,
