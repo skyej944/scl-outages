@@ -1,93 +1,5 @@
 [
   {
-    "cause": "Bird/Animal Contact",
-    "city": "South Seattle",
-    "etrTime": 1781983477000,
-    "id": 2134087,
-    "identifier": "218293",
-    "lastUpdatedTime": 1781968325000,
-    "latitude": 47.49816,
-    "longitude": -122.23198,
-    "numPeople": 12,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.23144,
-            47.4976
-          ],
-          [
-            -122.23268,
-            47.4976
-          ],
-          [
-            -122.23284,
-            47.49765
-          ],
-          [
-            -122.23294,
-            47.49774
-          ],
-          [
-            -122.23299,
-            47.49788
-          ],
-          [
-            -122.233,
-            47.49836
-          ],
-          [
-            -122.23296,
-            47.4985
-          ],
-          [
-            -122.23281,
-            47.49863
-          ],
-          [
-            -122.23238,
-            47.49872
-          ],
-          [
-            -122.23115,
-            47.49867
-          ],
-          [
-            -122.23101,
-            47.49863
-          ],
-          [
-            -122.23087,
-            47.49846
-          ],
-          [
-            -122.23088,
-            47.49824
-          ],
-          [
-            -122.2312,
-            47.49771
-          ],
-          [
-            -122.23132,
-            47.49763
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1781961437000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Outage"
-  },
-  {
     "cause": "Investigating",
     "city": "South Seattle",
     "etrTime": 1781985277000,
@@ -521,10 +433,10 @@
   {
     "cause": "Bird/Animal Contact",
     "city": "North Seattle",
-    "etrTime": 1782009577000,
+    "etrTime": 1782010477000,
     "id": 2134157,
     "identifier": "218306",
-    "lastUpdatedTime": 1781973603000,
+    "lastUpdatedTime": 1781974565000,
     "latitude": 47.63774,
     "longitude": -122.35534,
     "numPeople": 1,
