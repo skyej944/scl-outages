@@ -793,15 +793,15 @@
     "title": "Outage"
   },
   {
-    "cause": "Investigating",
+    "cause": "Planned Outage",
     "city": "South Seattle",
-    "etrTime": 1782444450000,
+    "etrTime": 1783740420000,
     "id": 2139122,
     "identifier": "218537",
-    "lastUpdatedTime": 1782422888000,
+    "lastUpdatedTime": 1782424208000,
     "latitude": 47.5486,
     "longitude": -122.27452,
-    "numPeople": 1,
+    "numPeople": 2,
     "polygons": {
       "hasM": false,
       "hasZ": false,
@@ -881,18 +881,20 @@
     },
     "startTime": 1782422153000,
     "state": "WA",
-    "title": "Outage"
+    "status": "Dispatched",
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
   },
   {
-    "cause": "Investigating",
+    "cause": "Planned Outage",
     "city": "South Seattle",
-    "etrTime": 1782444450000,
+    "etrTime": 1783826820000,
     "id": 2139124,
     "identifier": "218539",
-    "lastUpdatedTime": 1782422888000,
+    "lastUpdatedTime": 1782424329000,
     "latitude": 47.52188,
     "longitude": -122.27277,
-    "numPeople": 1,
+    "numPeople": 2,
     "polygons": {
       "hasM": false,
       "hasZ": false,
@@ -972,18 +974,20 @@
     },
     "startTime": 1782422597000,
     "state": "WA",
-    "title": "Outage"
+    "status": "Dispatched",
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
   },
   {
-    "cause": "Investigating",
+    "cause": "Planned Outage",
     "city": "South Seattle",
-    "etrTime": 1782444450000,
+    "etrTime": 1783826820000,
     "id": 2139125,
     "identifier": "218538",
-    "lastUpdatedTime": 1782422888000,
+    "lastUpdatedTime": 1782424208000,
     "latitude": 47.53379,
     "longitude": -122.26842,
-    "numPeople": 1,
+    "numPeople": 2,
     "polygons": {
       "hasM": false,
       "hasZ": false,
@@ -1063,6 +1067,8 @@
     },
     "startTime": 1782422597000,
     "state": "WA",
-    "title": "Outage"
+    "status": "Dispatched",
+    "title": "Planned Outage",
+    "type": "PLANNED_OUTAGE"
   }
 ]
