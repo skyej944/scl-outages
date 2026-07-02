@@ -187,9 +187,10 @@
   {
     "cause": "Investigating",
     "city": "North Seattle",
+    "etrTime": 1782971433000,
     "id": 2145462,
     "identifier": "218895",
-    "lastUpdatedTime": 1782949202000,
+    "lastUpdatedTime": 1782950043000,
     "latitude": 47.66919,
     "longitude": -122.3747,
     "numPeople": 1,
@@ -272,6 +273,91 @@
     },
     "startTime": 1782949150000,
     "state": "WA",
+    "status": "Dispatched",
+    "title": "Outage"
+  },
+  {
+    "cause": "Investigating",
+    "city": "South Seattle",
+    "etrTime": 1782975033000,
+    "id": 2145552,
+    "identifier": "218899",
+    "lastUpdatedTime": 1782953523000,
+    "latitude": 47.57464,
+    "longitude": -122.37926,
+    "numPeople": 9,
+    "polygons": {
+      "hasM": false,
+      "hasZ": false,
+      "rings": [
+        [
+          [
+            -122.37962,
+            47.57518
+          ],
+          [
+            -122.37893,
+            47.57523
+          ],
+          [
+            -122.37873,
+            47.57514
+          ],
+          [
+            -122.37865,
+            47.575
+          ],
+          [
+            -122.37863,
+            47.57476
+          ],
+          [
+            -122.37865,
+            47.57442
+          ],
+          [
+            -122.37874,
+            47.57425
+          ],
+          [
+            -122.37888,
+            47.57417
+          ],
+          [
+            -122.37952,
+            47.57403
+          ],
+          [
+            -122.37967,
+            47.57405
+          ],
+          [
+            -122.37979,
+            47.57412
+          ],
+          [
+            -122.37988,
+            47.5743
+          ],
+          [
+            -122.3799,
+            47.57491
+          ],
+          [
+            -122.37982,
+            47.57509
+          ]
+        ]
+      ],
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "type": "polygon"
+    },
+    "startTime": 1782952805000,
+    "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   }
 ]
