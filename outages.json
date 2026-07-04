@@ -92,12 +92,12 @@
     "title": "Outage"
   },
   {
-    "cause": "Investigating",
+    "cause": "Bird/Animal Contact",
     "city": "South Seattle",
     "etrTime": 1783209680000,
     "id": 2149785,
     "identifier": "218998",
-    "lastUpdatedTime": 1783173843000,
+    "lastUpdatedTime": 1783177203000,
     "latitude": 47.59094,
     "longitude": -122.31802,
     "numPeople": 106,
