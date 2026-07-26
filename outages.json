@@ -1,11 +1,11 @@
 [
   {
-    "cause": "Investigating",
+    "cause": "Equipment Failure",
     "city": "South Seattle",
     "etrTime": 1785043911000,
     "id": 2170687,
     "identifier": "220321",
-    "lastUpdatedTime": 1785022322000,
+    "lastUpdatedTime": 1785027603000,
     "latitude": 47.50593,
     "longitude": -122.329,
     "numPeople": 1,
