@@ -188,10 +188,10 @@
   {
     "cause": "Planned Outage",
     "city": "North Seattle",
-    "etrTime": 1785226974000,
+    "etrTime": 1785403380000,
     "id": 2171476,
     "identifier": "220402",
-    "lastUpdatedTime": 1785205444000,
+    "lastUpdatedTime": 1785227042000,
     "latitude": 47.62157,
     "longitude": -122.33141,
     "numPeople": 2,
