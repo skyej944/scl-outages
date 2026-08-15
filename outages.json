@@ -5,7 +5,7 @@
     "etrTime": 1786845315000,
     "id": 2187165,
     "identifier": "221190",
-    "lastUpdatedTime": 1786823763000,
+    "lastUpdatedTime": 1786831083000,
     "latitude": 47.76601,
     "longitude": -122.32482,
     "numPeople": 1,
@@ -88,6 +88,7 @@
     },
     "startTime": 1786823581000,
     "state": "WA",
+    "status": "Dispatched",
     "title": "Outage"
   }
 ]
