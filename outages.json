@@ -747,91 +747,6 @@
     "type": "PLANNED_OUTAGE"
   },
   {
-    "cause": "Planned Outage",
-    "city": "North Seattle",
-    "etrTime": 1787172120000,
-    "id": 2191032,
-    "identifier": "221348",
-    "lastUpdatedTime": 1787158084000,
-    "latitude": 47.67073,
-    "longitude": -122.29324,
-    "numPeople": 6,
-    "polygons": {
-      "hasM": false,
-      "hasZ": false,
-      "rings": [
-        [
-          [
-            -122.29296,
-            47.67026
-          ],
-          [
-            -122.29359,
-            47.6703
-          ],
-          [
-            -122.29375,
-            47.67038
-          ],
-          [
-            -122.29383,
-            47.67048
-          ],
-          [
-            -122.29386,
-            47.67059
-          ],
-          [
-            -122.29386,
-            47.67082
-          ],
-          [
-            -122.29379,
-            47.67097
-          ],
-          [
-            -122.29365,
-            47.67106
-          ],
-          [
-            -122.29302,
-            47.67122
-          ],
-          [
-            -122.29288,
-            47.67122
-          ],
-          [
-            -122.29275,
-            47.67115
-          ],
-          [
-            -122.29265,
-            47.67097
-          ],
-          [
-            -122.29264,
-            47.6705
-          ],
-          [
-            -122.29275,
-            47.67033
-          ]
-        ]
-      ],
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "type": "polygon"
-    },
-    "startTime": 1787157748000,
-    "state": "WA",
-    "status": "Dispatched",
-    "title": "Planned Outage",
-    "type": "PLANNED_OUTAGE"
-  },
-  {
     "cause": "Investigating",
     "city": "South Seattle",
     "etrTime": 1787182275000,
@@ -1202,9 +1117,10 @@
   {
     "cause": "Investigating",
     "city": "North Seattle",
+    "etrTime": 1787189846000,
     "id": 2191103,
     "identifier": "221367",
-    "lastUpdatedTime": 1787167684000,
+    "lastUpdatedTime": 1787168282000,
     "latitude": 47.64162,
     "longitude": -122.32896,
     "numPeople": 1,
