@@ -95,10 +95,10 @@
   {
     "cause": "Planned Outage",
     "city": "North Seattle",
-    "etrTime": 1792492778000,
+    "etrTime": 1792751940000,
     "id": 2236147,
     "identifier": "224035",
-    "lastUpdatedTime": 1792471202000,
+    "lastUpdatedTime": 1792492803000,
     "latitude": 47.66107,
     "longitude": -122.28352,
     "numPeople": 1,
